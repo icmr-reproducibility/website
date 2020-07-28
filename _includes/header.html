@@ -1,7 +1,6 @@
 <header class="site-header">
 
 <div id="banner">
- <h2><img style="width: 100px;" src="{{site.baseurl}}/images/logo.png"/ >{{ site.title }}</h2>
   <div class="wrapper">
 
     <nav class="site-nav">
@@ -13,6 +12,7 @@
         </svg>
       </a>
 
+ <h2><img style="width: 100px;" src="{{site.baseurl}}/images/logo.png"/ >{{ site.title }}</h2>
       <div class="trigger">
         {% for my_page in site.pages %}
           {% if my_page.title %}
