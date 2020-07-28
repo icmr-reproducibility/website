@@ -39,6 +39,12 @@
     margin-left: 100px;
 }
 
+@include media-query($on-palm) {
+    .trigger {
+        margin-left: 0; 
+    }
+}
+
 hr {
     margin: 30px;
 }
