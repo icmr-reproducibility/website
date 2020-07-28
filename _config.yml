@@ -1,0 +1,11 @@
+title: ICMR Reproducibility
+email: maau@itu.dk
+description: > # this means to ignore newlines until "baseurl:"
+  ICMR Reproducibility
+
+# Build settings
+markdown: kramdown
+kramdown:
+  toc_levels: "2,3"
+baseurl: "/pages/icmr-reproducibility"
+url: ""
