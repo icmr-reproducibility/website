@@ -18,7 +18,7 @@ This knowledge is built up over time by research findings that are confirmed bec
 
 The long-term objective of ICMR Reproducibility is to promote a common research culture where sharing the full set of products of multimedia research (e.g., not just the algorithm description, but also the data, the code, the plots) is the norm rather than an exception. The main challenge we face is promoting research reproducibility both efficiently and effectively. To tackle this challenge, we must build technical expertise that can support repeatable and shareable research. 
 
-The [ICMR Reproducibility Committee]() is here to help you with this.
+The [ICMR Reproducibility Committee](./cfp2021/#2021-reproducibility-committee) is here to help you with this.
 
 Overall, our objectives are to:
 * Promote reproducibility as a strong foundation for scientific productivity and progress in the multimedia community,
@@ -30,7 +30,7 @@ We aim at reaching that goal through the use of a series of instruments deployed
 
 This page describes these instruments and then their implementation at ICMR. It also discusses best practices and points to example of contribution promoting reproducibility.
 
-Please visit the following page for specific information about the [ACM ICMR 2021]() call for reproducibility papers.
+Please visit the following page for specific information about the [ACM ICMR 2021](./cfp2021/) call for reproducibility papers.
 
 ## ACM Reproducibility Badges
 
