@@ -88,7 +88,7 @@ This companion paper in the ACM DL and its exposure during the conference are fa
 ## ACM ICMR 2021: Call for Reproducibility Papers
 Detailed instructions about the ACM Multimedia Retrieval 2021 call for reproducibility papers are provided in the [Call for Papers]({{site.baseurl}}/cfp2021).
 
-You will find there the general submission guidelines for 2021, the timeline, the one badge that we consider in 2021, namely the **Results Replicated** badge, the description of what the companion paper typically contains when submitting for this specific badge, the description of what the artifacts associated to this companion paper typically contain as well as a few packaging guidelines facilitating the preparation of the artifacts.
+You will find there the general submission guidelines for 2021, the timeline, the one badge that we consider in 2021, namely the **Results Reproduced** badge, the description of what the companion paper typically contains when submitting for this specific badge, the description of what the artifacts associated to this companion paper typically contain as well as a few packaging guidelines facilitating the preparation of the artifacts.
 
 If you have questions, if you are unsure about what to submit, then please contact the [chairs](mailto:maau@itu.dk,bjth@itu.dk?subject=%5BICMR2021%20Reproducibility%5AD).
 
