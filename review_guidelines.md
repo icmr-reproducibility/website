@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /review-guidelines/
+permalink: /guidelines/
 ---
 ## ACM ICMR 2021 Reproducibility Paper Review Guidelines
 
