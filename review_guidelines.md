@@ -1,8 +1,7 @@
 ---
 layout: page
-permalink: review-guidelines
+permalink: /review-guidelines/
 ---
-
 ## ACM ICMR 2021 Reproducibility Paper Review Guidelines
 
 ### Goals for ACM ICMR Reproducibility Reviews
