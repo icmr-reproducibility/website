@@ -14,11 +14,8 @@
 
  <h2><img style="width: 100px;" src="{{site.baseurl}}/images/logo.png"/ >{{ site.title }}</h2>
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="site-title" href="{{ my_page.url | prepend: site.baseurl }}">&raquo; {{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
+        <a class="site-title" href="{{ / | prepend: site.baseurl }}">&raquo; Overview</a>
+        <a class="site-title" href="{{ /cfp2021/ | prepend: site.baseurl }}">&raquo; Call for Papers 2021</a>
       </div>
     </nav>
   </div>
