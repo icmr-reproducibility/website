@@ -1,15 +1,15 @@
 ---
 layout: page
+title: Review Guidelines
 permalink: /guidelines/
 ---
-## ACM ICMR 2021 Reproducibility Paper Review Guidelines
 
-### Goals for ACM ICMR Reproducibility Reviews
+## Goals for ACM ICMR Reproducibility Reviews
 
 Please also refer to the [ACM ICMR Reproducibility pages](./cfp2021/) for the information about what an ideal repro submission should have. 
 When addressing the work, make sure that you write in a way that you yourself would like to see in a review that you get. 
 
-A reproducibility review is a bit different to a standard conference review. In particular: 
+A reproducibility review is different to a standard conference review. In particular: 
 
 - Interacting with the authors is the most important thing. As soon as you are blocked, if anything fails during the install, the execution, if any result appears to be strange, then in parallel to trying to figure out what is going on, please talk to the authors. You will lose less time. Maybe the overall duration of the review process will increase, but this does not matter.
 - The assumption is that (a) the original ACM ICMR paper contains valid science and (b) that the corresponding repro paper indeed supports the findings and can be trusted. The goal of all this repro track is to work such that repro paper *eventually* gets accepted once what they propose is clear and clean enough for other members of the community to build on their findings. It may take time, it may take many iterations and discussions with the authors, but the goal is to have them pass the reviewing phase after updates and adjustments. Rejects should really be limited to the cases where something goes wrong: it requires tremendous work to reproduce the findings; where there is something that is very unclear or incorrect; or where authors do not discuss with you in an open and friendly way, as if they were trying to hide something from your sight.
