@@ -18,7 +18,7 @@ This knowledge is built up over time by research findings that are confirmed bec
 
 The long-term objective of ICMR Reproducibility is to promote a common research culture where sharing the full set of products of multimedia research (e.g., not just the algorithm description, but also the data, the code, the plots) is the norm rather than an exception. The main challenge we face is promoting research reproducibility both efficiently and effectively. To tackle this challenge, we must build technical expertise that can support repeatable and shareable research. 
 
-The [ICMR Reproducibility Committee](./cfp2021/#2021-reproducibility-committee) is here to help you with this.
+The [ICMR Reproducibility Committee](./cfp2022/#2022-reproducibility-committee) is here to help you with this.
 
 Overall, our objectives are to:
 * Promote reproducibility as a strong foundation for scientific productivity and progress in the multimedia community,
@@ -30,7 +30,7 @@ We aim at reaching that goal through the use of a series of instruments deployed
 
 This page describes these instruments and then their implementation at ICMR. It also discusses best practices and points to example of contribution promoting reproducibility.
 
-Please visit the following page for specific information about the [ACM ICMR 2021](./cfp2021/) call for reproducibility papers.
+Please visit the following page for specific information about the [ACM ICMR 2022](./cfp2022/) call for reproducibility papers.
 
 ## ACM Reproducibility Badges
 
@@ -84,14 +84,14 @@ In this way, the work of authors’ who devote attention to reproducibility rece
 This companion paper in the ACM DL and its exposure during the conference are fabulous incentives for both authors and reviewers.
 
 ---
-
-## ACM ICMR 2021: Call for Reproducibility Papers
+<!--
+## ACM ICMR 2022: Call for Reproducibility Papers
 Detailed instructions about the ACM Multimedia Retrieval 2021 call for reproducibility papers are provided in the [Call for Papers]({{site.baseurl}}/cfp2021).
 
 You will find there the general submission guidelines for 2021, the timeline, the one badge that we consider in 2021, namely the **Results Reproduced** badge, the description of what the companion paper typically contains when submitting for this specific badge, the description of what the artifacts associated to this companion paper typically contain as well as a few packaging guidelines facilitating the preparation of the artifacts.
 
-If you have questions, if you are unsure about what to submit, then please contact the [chairs](mailto:maau@itu.dk,bjth@itu.dk?subject=%5BICMR2021%20Reproducibility%5AD).
-
+If you have questions, if you are unsure about what to submit, then please contact the [chairs](mailto:maau@itu.dk,bjth@itu.dk?subject=%5BICMR2022%20Reproducibility%5AD).
+-->
 ---
 ## Best Practices
 
@@ -131,7 +131,7 @@ The committee is chaired by two chairpersons who each serve for two years. At th
 
 The two chairpersons nominate the members of the committee that are enrolled for at least one year. Chairs can also take part in the evaluation. There is a strict conflict of interest policy: the chairs cannot submit a reproducibility paper while they hold their positions.
 
-The committee in charge of reproducibility at the 2021 edition of ACM ICMR is provided at the bottom of [ACM ICMR 2021 — Call for Reproducibility papers]({{site.baseurl}}/cfp2021).
+The committee in charge of reproducibility at the 2022 edition of ACM ICMR is provided at the bottom of [ACM ICMR 2022 — Call for Reproducibility papers]({{site.baseurl}}/cfp2022).
 
 ---
 
