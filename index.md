@@ -18,7 +18,7 @@ This knowledge is built up over time by research findings that are confirmed bec
 
 The long-term objective of ICMR Reproducibility is to promote a common research culture where sharing the full set of products of multimedia research (e.g., not just the algorithm description, but also the data, the code, the plots) is the norm rather than an exception. The main challenge we face is promoting research reproducibility both efficiently and effectively. To tackle this challenge, we must build technical expertise that can support repeatable and shareable research. 
 
-The [ICMR Reproducibility Committee](./cfp2022/#2022-reproducibility-committee) is here to help you with this.
+The [ICMR Reproducibility Committee](./cfp2023/#2023-reproducibility-committee) is here to help you with this.
 
 Overall, our objectives are to:
 * Promote reproducibility as a strong foundation for scientific productivity and progress in the multimedia community,
@@ -30,7 +30,7 @@ We aim at reaching that goal through the use of a series of instruments deployed
 
 This page describes these instruments and then their implementation at ICMR. It also discusses best practices and points to example of contribution promoting reproducibility.
 
-Please visit the following page for specific information about the [ACM ICMR 2022](./cfp2022/) call for reproducibility papers.
+Please visit the following page for specific information about the [ACM ICMR 2023](./cfp2023/) call for reproducibility papers.
 
 ## ACM Reproducibility Badges
 
@@ -119,10 +119,10 @@ Here are a few links to papers with badges inside the ACM DL. They have been pic
 
 The first two papers from ACM MM 2019 comply with guidelines specified in this page. The latter two do not necessarily comply with our rules. For example, sometimes there is no companion paper, sometimes the companion paper is not always a 2-4 pages paper, ACM style. Furthermore, papers may target other types of badges that are about the availability of the artifacts, not solely about replicability or reproducibility of results.
 
+* **Reproducibility Companion Paper: Knowledge Enhanced Neural Fashion Trend Forecasting.** Yunshan Ma, Yujuan Ding, Xun Yang, Lizi Liao, Wai Keung Wong, Tat-Seng Chua, Jinyoung Moon, Hong-Han Shuai. __ACM ICMR 2021__. [Paper's DOI](https://dl.acm.org/doi/10.1145/3460426.3463598). The artifacts are on [Zenodo](https://zenodo.org/record/4774766#.YKdfH6LnhhE).
+* **Reproducibility Companion Paper: Human Object Interaction Detection via Multi-level Conditioned Network**, Yunqing He, Xu Sun, Hui Jiang, Tongwei Ren, Gangshan Wu, Maria Sinziana Astefanoaei, Andreas Leibetseder. __ACM ICMR 2022__. [Paper's DOI](https://dl.acm.org/doi/10.1145/3512527.3531438). The artifacts are on [GitHub](https://github.com/ZhengyuZhao/Adi-Red-Scene).
 * **Reproducible Experiments on Adaptive Discriminative Region Discovery for Scene Recognition**, Z. Zhao, Z. Liu, M. Larson, A. Iscen, N. Nitta. _ACM MM 2019_. ![](https://project.inria.fr/acmmmreproducibility/files/2018/09/results_replicated-150x150.jpg){:height="30px"}. [Paper's DOI](https://dl.acm.org/citation.cfm?id=3351169). The artifacts are on [GitHub](https://github.com/ZhengyuZhao/Adi-Red-Scene).
-* **Companion Paper for “MiniView Layout for Bandwidth-Efficient 360-Degree Video”**, M. Xiao, S. Wang, C. Zhou, L. Liu, Z. Li, Y. Liu, S. Chen, L. Sassatelli, G. Simon. _ACM MM 2019_. ![](https://project.inria.fr/acmmmreproducibility/files/2018/09/results_replicated-150x150.jpg){:height="30px"}. [Paper&#8217;s DOI](https://dl.acm.org/citation.cfm?doid=3343031.3351168). The artifacts are on [GitHub](https://github.com/bingsyslab/mm19-artifact).
 * **Generating Preview Tables for Entity Graphs**, N. Yan, S. Hasani, A. Asudeh and C. Li. _Winner of the 2017 most reproducible papers from SIGMOD 2016_. ![](https://project.inria.fr/acmmmreproducibility/files/2018/09/artifacts_available-150x150.jpg){:height="30px"}![](https://project.inria.fr/acmmmreproducibility/files/2018/09/results_replicated-150x150.jpg){:height="30px"}. [Paper&#8217;s DOI](https://doi.org/10.1145/2882903.2915221).
-* **Cicada: Dependably Fast Multi-Core In-Memory Transactions**, H. Lim, M. Kaminsky, D. G. Andersen. _ACM SIGMOD 2017 Reproducible Paper_. ![](https://project.inria.fr/acmmmreproducibility/files/2018/09/artifacts_evaluated_reusable-150x150.jpg){:height="30px"} ![](https://project.inria.fr/acmmmreproducibility/files/2018/09/artifacts_available-150x150.jpg){:height="30px"} ![](https://project.inria.fr/acmmmreproducibility/files/2018/09/results_replicated-150x150.jpg){:height="30px"}. [Paper&#8217;s DOI](https://doi.org/10.1145/3035918.3064015). The artifacts are on [GitHub](https://github.com/efficient/cicada).
 
 ---
 
@@ -131,7 +131,7 @@ The committee is chaired by two chairpersons who each serve for two years. At th
 
 The two chairpersons nominate the members of the committee that are enrolled for at least one year. Chairs can also take part in the evaluation. There is a strict conflict of interest policy: the chairs cannot submit a reproducibility paper while they hold their positions.
 
-The committee in charge of reproducibility at the 2022 edition of ACM ICMR is provided at the bottom of [ACM ICMR 2022 — Call for Reproducibility papers]({{site.baseurl}}/cfp2022).
+The committee in charge of reproducibility at the 2023 edition of ACM ICMR is provided at the bottom of [ACM ICMR 2023 — Call for Reproducibility papers]({{site.baseurl}}/cfp2023).
 
 ---
 
