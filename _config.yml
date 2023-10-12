@@ -1,7 +1,7 @@
-title: ICMR Reproducibility
+title: ICMR Reproducibility 2024
 email: maau@itu.dk
 description: > # this means to ignore newlines until "baseurl:"
-  ICMR Reproducibility 2024
+  ICMR Reproducibility
 
 # Build settings
 markdown: kramdown
