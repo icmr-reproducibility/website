@@ -9,7 +9,7 @@ permalink: /
 
 ## Overall Reproducibility Objectives
 
-Why considering reproducibility? 
+Why consider reproducibility? 
 Reproducibility of scientific results is at the core of the Scientific Method. 
 The reason why we do research is to create new knowledge. 
 This knowledge is built up over time by research findings that are confirmed because they are reproducible by the research community.
@@ -28,7 +28,7 @@ Overall, our objectives are to:
 
 We aim at reaching that goal through the use of a series of instruments deployed by the ACM and that specifically address the reproducibility of scientific results.
 
-This page describes these instruments and then their implementation at ICMR. It also discusses best practices and points to example of contribution promoting reproducibility.
+This page describes these instruments and their implementation at ICMR. It also discusses best practices and points to examples of contribution promoting reproducibility.
 
 Please visit the following page for specific information about the [ACM ICMR 2023](./cfp2023/) call for reproducibility papers.
 
@@ -77,9 +77,9 @@ Because the reviewers interact with the authors, devote a large amount of time a
 If the reviewers find that the technical issues or problems with the documentation cannot be resolved, then the reproducibility companion paper is rejected. 
 If, during the evaluation, a serious flaw invalidating the scientific results published in the original contribution is discovered, then the companion paper is rejected, and the reproducibility reviewers will encourage the original authors to publish an errata.
 
-Note that the collaborative review process requires substantial efforts, and for this reason the reproducibility companion paper is not published in the same ACM ICMR proceedings as the original paper, but rather appears in the next year’s proceedings. 
+Note that the collaborative review process requires substantial efforts, and for this reason, the reproducibility companion paper is not published in the same ACM ICMR proceedings as the original paper, but rather appears in the next year’s proceedings. 
 This provides authors with the opportunity to present their work twice at an ACM Multimedia Retrieval conference: The original paper is presented first, and the next year the reproducibility companion paper is presented as a poster. 
-In this way, the work of authors’ who devote attention to reproducibility receives additional visibility at the conference.
+In this way, the work of authors who devote attention to reproducibility receives additional visibility at the conference.
 
 This companion paper in the ACM DL and its exposure during the conference are fabulous incentives for both authors and reviewers.
 
@@ -96,20 +96,20 @@ If you have questions, if you are unsure about what to submit, then please conta
 ## Best Practices
 
 Best practices in reproducibility are a set of actions and principles that you can take in order to ensure that your work is reproducible. 
-Best practices should not be considered a single, static recipe, but rather they are a flexible knowledge of processes and strategies that evolve overtime.
+Best practices should not be considered a single, static recipe, but rather they are a flexible knowledge of processes and strategies that evolve over time.
 
 To get started understanding best practices, we suggest that you take a look at the ACM Digital Library’s webpage entitled [Software and Data Artifacts in the ACM Digital Library](https://www.acm.org/publications/artifacts), which provides information on motivations for reproducibility and a look into how reproducibility is supported and continues to evolve in the ACM Digital library. 
 From that page you can get more information on badges.
 
 Researchers in the area of databases started explicitly emphasizing reproducibility early on. 
 Much of what we propose to implement for ACM Multimedia Retrieval is inspired from their _DOs_ and _DON'Ts_. 
-We suggest that you take a look at material on reproducibility that has been published in the database community and consider how their best practices transfer to your work.
+We suggest that you take a look at the material on reproducibility that has been published in the database community and consider how their best practices transfer to your work.
 
-A good source of information can be found in the [ICDE 2008 tutorial by Ioana Manolescu and Stefan Manegold](http://pages.saclay.inria.fr/ioana.manolescu/SLIDES/ManolescuManegoldICDE2008.pdf). The tutorial includes a road-map of tips and tricks on how to organize and present code that performs experiments, so that an outsider can repeat them.
+A good source of information can be found in the [ICDE 2008 tutorial by Ioana Manolescu and Stefan Manegold](http://pages.saclay.inria.fr/ioana.manolescu/SLIDES/ManolescuManegoldICDE2008.pdf). The tutorial includes a road map of tips and tricks on how to organize and present code that performs experiments so that an outsider can repeat them.
 
 A discussion about reproducibility in research including guidelines and a review of existing tools can be found in the [SIGMOD 2012 tutorial by Juliana Freire, Philippe Bonnet, and Dennis Shasha](http://dl.acm.org/citation.cfm?id=2213908). 
 
-Closer to multimedia retrieval, ACM MMSys and ACM MM has lead the multimedia research community in explicitly emphasizing reproducibility and Gwendal Simon chaired the reproducibility track at MMSys 2019. Emailing Gwendal or reading what he wrote about reproducibility [in his blog](http://peerdal.blogspot.com/2017/05/reproducibility-in-acm-mmsys-conference.html) can be helpful. Take also a look at ACM MM's reproducibility efforts that are documented [here](https://project.inria.fr/acmmmreproducibility). Our approach follows very much the principles brought forward for ACM MM.
+Closer to multimedia retrieval, ACM MMSys and ACM MM have led the multimedia research community in explicitly emphasizing reproducibility and Gwendal Simon chaired the reproducibility track at MMSys 2019. Emailing Gwendal or reading what he wrote about reproducibility [in his blog](http://peerdal.blogspot.com/2017/05/reproducibility-in-acm-mmsys-conference.html) can be helpful. Take also a look at ACM MM's reproducibility efforts that are documented [here](https://project.inria.fr/acmmmreproducibility). Our approach follows very much the principles brought forward for ACM MM.
 
 ---
 
@@ -117,7 +117,7 @@ Closer to multimedia retrieval, ACM MMSys and ACM MM has lead the multimedia res
 
 Here are a few links to papers with badges inside the ACM DL. They have been picked because they nicely illustrate what is described in this page, not due to their scientific value. They come from multiple domains, giving you a broad view of what colleagues have done. 
 
-The first two papers from ACM MM 2019 comply with guidelines specified in this page. The latter two do not necessarily comply with our rules. For example, sometimes there is no companion paper, sometimes the companion paper is not always a 2-4 pages paper, ACM style. Furthermore, papers may target other types of badges that are about the availability of the artifacts, not solely about replicability or reproducibility of results.
+The first two papers from ACM MM 2019 comply with the guidelines specified on this page. The latter two do not necessarily comply with our rules. For example, sometimes there is no companion paper, sometimes the companion paper is not always a 2-4 page paper, ACM style. Furthermore, papers may target other types of badges that are about the availability of the artifacts, not solely about replicability or reproducibility of results.
 
 * **Reproducibility Companion Paper: Knowledge Enhanced Neural Fashion Trend Forecasting.** Yunshan Ma, Yujuan Ding, Xun Yang, Lizi Liao, Wai Keung Wong, Tat-Seng Chua, Jinyoung Moon, Hong-Han Shuai. __ACM ICMR 2021__. [Paper's DOI](https://dl.acm.org/doi/10.1145/3460426.3463598). The artifacts are on [Zenodo](https://zenodo.org/record/4774766#.YKdfH6LnhhE).
 * **Reproducibility Companion Paper: Human Object Interaction Detection via Multi-level Conditioned Network**, Yunqing He, Xu Sun, Hui Jiang, Tongwei Ren, Gangshan Wu, Maria Sinziana Astefanoaei, Andreas Leibetseder. __ACM ICMR 2022__. [Paper's DOI](https://dl.acm.org/doi/10.1145/3512527.3531438). The artifacts are on [GitHub](https://github.com/ZhengyuZhao/Adi-Red-Scene).
@@ -127,14 +127,14 @@ The first two papers from ACM MM 2019 comply with guidelines specified in this p
 ---
 
 ## ICMR Reproducibility Committee
-The committee is chaired by two chairpersons who each serve for two years. At the end of each year, one chair is replaced and the other continues. This system ensures a one year overlap, which helps the committee to maintain freshness while also facilitating the transmission of the gradually improved expertise in managing reproducibility.
+The committee is chaired by two chairpersons who each serve for two years. At the end of each year, one chair is replaced and the other continues. This system ensures a one-year overlap, which helps the committee to maintain freshness while also facilitating the transmission of the gradually improved expertise in managing reproducibility.
 
-The two chairpersons nominate the members of the committee that are enrolled for at least one year. Chairs can also take part in the evaluation. There is a strict conflict of interest policy: the chairs cannot submit a reproducibility paper while they hold their positions.
+The two chairpersons nominate the members of the committee who are enrolled for at least one year. Chairs can also take part in the evaluation. There is a strict conflict of interest policy: the chairs cannot submit a reproducibility paper while they hold their positions.
 
-The committee in charge of reproducibility at the 2023 edition of ACM ICMR is provided at the bottom of [ACM ICMR 2023 — Call for Reproducibility papers]({{site.baseurl}}/cfp2023).
+The committee in charge of reproducibility at the 2024 edition of ACM ICMR is provided in the page of [ACM ICMR 2024 — Call for Reproducibility papers]({{site.baseurl}}/cfp2024).
 
 ---
 
 ## Credits
 
-The process described in these pages was originally designed and implemented by Laurent Amsaleg, General Chair and Reproducibility Chair of ACM Multimedia 2019, with inputs from co-chairs Martha Larson, Benoit Huet and Björn Þór Jónsson. The text here originates from the Web page for [ACM MM Reproducibility](https://project.inria.fr/acmmmreproducibility)and was used with the authorisation of the original authors. Naturally, however, that text was adapted when necessary. Also see the credits on <https://project.inria.fr/acmmmreproducibility>.
+The process described in these pages was originally designed and implemented by Laurent Amsaleg, General Chair and Reproducibility Chair of ACM Multimedia 2019, with inputs from co-chairs Martha Larson, Benoit Huet, and Björn Þór Jónsson. The text here originated from the Web page for [ACM MM Reproducibility](https://project.inria.fr/acmmmreproducibility)and was used with the authorization of the original authors. Naturally, however, that text was adapted when necessary. Also, see the credits on <https://project.inria.fr/acmmmreproducibility>.
