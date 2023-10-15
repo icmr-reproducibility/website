@@ -26,14 +26,14 @@ Overall, our objectives are to:
 * Support easier dissemination of code, data sets, experimental frameworks and other products of multimedia research.
 
 ## ACM ICMR: Call for Reproducibility Papers
-Please visit the page for information about the [ACM ICMR 2024](./cfp2024/) call for reproducibility papers.
-Only authors who already have a paper accepted at ACM ICMR (as a regular long/short paper or a special session paper) can participate in the reproducibility review process.
+The authors who already have a paper accepted at ACM ICMR (as a regular long/short paper or a special session paper) can participate in the reproducibility review process.
 The authors are invited to prepare and submit a _reproducibility paper_. The reproducibility paper is a _companion paper_ that is distinct from the main paper. 
-It is this companion paper that is formally reviewed by the [ICMR Reproducibility Committee](). 
+The companion paper will be formally reviewed by the [ICMR Reproducibility Committee]() or reviewers. 
 If this paper passes the review process with success, then both the companion paper and the corresponding main paper are awarded reproducibility badges that are embedded in their .pdf. 
 These two badged papers appear in the ACM Digital Library, and the companion paper is linked to the original paper.
-Furthermore, the authors of an accepted reproducibility paper present their work as part of a specific reproducibility poster session at ACM ICMR.
-You will find there the submission guidelines this year, the timeline, the paper badge, the description of the companion paper, and the artifacts associated with this companion paper.
+The authors of an accepted reproducibility paper present their work as part of a specific reproducibility poster session at ACM ICMR.
+
+Please visit the page for information about the [ACM ICMR 2024](./cfp2024/) call for reproducibility papers. You will find there the submission guidelines this year, the timeline, the paper badge, the description of the companion paper, and the artifacts associated with this companion paper.
 
 ---
 
@@ -50,7 +50,7 @@ Quoting ACM:
 
 ---
 
-## Reproducibility Review Process at ACM ICMR 
+## Reproducibility Review Process
 Submitted reproducibility companion papers are reviewed by a collaborative reproducibility review process, which is distinct from the main conference paper reviewing process. Please visit the page for detailed information about the [Review Guidelines](./guidelines/).
 It is the [ICMR Reproducibility Committee](./cfp2024/#2024-reproducibility-committee) that is carrying out the review process, determining whether or not a paper will receive a badge. 
 The committee assigns reviewers to each reproducibility companion paper submission.
