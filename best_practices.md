@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Review Guidelines
-permalink: /author_guidelines/
+title: Best Practices
+permalink: /best_practices/
 ---
 
-## ACM ICMR Reproducibility Examples
+## ACM ICMR Reproducibility Best Practices
 
 ---
 ## Best Practices
