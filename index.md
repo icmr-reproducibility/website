@@ -18,7 +18,7 @@ This knowledge is built up over time by research findings that are confirmed bec
 
 The long-term objective of ICMR Reproducibility is to promote a common research culture where sharing the full set of products of multimedia research (e.g., not just the algorithm description, but also the data, the code, the plots) is the norm rather than an exception. The main challenge we face is promoting research reproducibility both efficiently and effectively. To tackle this challenge, we must build technical expertise that can support repeatable and shareable research. 
 
-The [ICMR Reproducibility Committee](./cfp2023/#2023-reproducibility-committee) is here to help you with this.
+The [ICMR Reproducibility Committee](./cfp202/#2024-reproducibility-committee) is here to help you with this.
 
 Overall, our objectives are to:
 * Promote reproducibility as a strong foundation for scientific productivity and progress in the multimedia community,
@@ -26,15 +26,15 @@ Overall, our objectives are to:
 * Establish a common understanding among researchers about the reproducibility of scientific results in order to communicate clearly and visibly the effort that authors have invested in ensuring that their findings can be recreated,
 * Support easier dissemination of code, data sets, experimental frameworks and other products of multimedia research.
 
-We aim at reaching that goal through the use of a series of instruments deployed by the ACM and that specifically address the reproducibility of scientific results.
+We aim to reach that goal through the use of a series of instruments deployed by the ACM and that specifically address the reproducibility of scientific results.
 
 This page describes these instruments and their implementation at ICMR. It also discusses best practices and points to examples of contribution promoting reproducibility.
 
-Please visit the following page for specific information about the [ACM ICMR 2023](./cfp2023/) call for reproducibility papers.
+Please visit the following page for specific information about the [ACM ICMR 2024](./cfp2024/) call for reproducibility papers.
 
 ## ACM Reproducibility Badges
 
-Reproducibility at ACM takes the concrete form of a _reproducibility badges_ that is given to papers whose authors have invested effort to describe their algorithms and experiments in detail.
+Reproducibility at ACM takes the concrete form of a _reproducibility badge_ that is given to papers whose authors have invested effort to describe their algorithms and experiments in detail.
 
 ACM defines several reproducibility badges, spanning several levels of reproducibility engagements, from light to strong, and you can find the list of ACM badges [here](https://tinyurl.com/ycw6zd7j).
 
@@ -43,11 +43,11 @@ Some reproducibility badges involve developing and releasing research artifacts.
 
 
 Reproducibility badges are awarded to scientific contributions that have successfully passed a formal reproducibility reviewing phase. 
-Contributions that have passed get embedded in their .pdf a reproducibility badge, which is also prominently displayed in the ACM Digital Library.
+Contributions that have passed get embedded in their .pdf reproducibility badge, which is also prominently displayed in the ACM Digital Library.
 
 Having a reproducibility badge awarded to your contribution promotes the dissemination and uptake of your work. 
 When they see the badge, other researchers will understand it is possible to build on your contribution and whether there are resources available that will allow them to adopt or extend your approach. 
-The result is that your work receives wider recognition and is positioned to make higher impact.
+The result is that your work receives wider recognition and is positioned to make a higher impact.
 
 ---
 
