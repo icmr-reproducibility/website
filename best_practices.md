@@ -6,7 +6,7 @@ permalink: /best_practices/
 
 
 ---
-## Best Practices
+## Best Practice Guidelines
 
 Best practices in reproducibility are a set of actions and principles that you can take in order to ensure that your work is reproducible. 
 Best practices should not be considered a single, static recipe, but rather they are a flexible knowledge of processes and strategies that evolve over time.
