@@ -6,7 +6,7 @@ permalink: /guidelines/
 
 ## ACM ICMR Reproducibility Review Guidelines
 
-Please also refer to the [ACM ICMR Reproducibility pages](./cfp2024/) for information about what an ideal repro submission should have. 
+Please also refer to the [ACM ICMR Reproducibility pages](./cfp2025/) for information about what an ideal repro submission should have. 
 When addressing the work, make sure that you write in a way that you yourself would like to see in a review that you get. 
 
 A reproducibility review is different from a standard conference review. In particular: 

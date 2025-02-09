@@ -17,7 +17,7 @@ This knowledge is built up over time by research findings that are confirmed bec
 
 We aim to reach that goal through the use of a series of instruments deployed by the ACM that specifically address the reproducibility of scientific results. The long-term objective of ICMR Reproducibility is to promote a common research culture where sharing the full set of products of multimedia research (e.g., not just the algorithm description, but also the data, the code, the plots) is the norm rather than an exception. The main challenge we face is promoting research reproducibility both efficiently and effectively. To tackle this challenge, we must build technical expertise that can support repeatable and shareable research. 
 
-The [ICMR Reproducibility Committee](./cfp2024/#2024-reproducibility-committee) is here to help you with this.
+The [ICMR Reproducibility Committee](./cfp2025/#2025-reproducibility-committee) is here to help you with this.
 
 Overall, our objectives are to:
 * Promote reproducibility as a strong foundation for scientific productivity and progress in the multimedia community,
@@ -33,7 +33,7 @@ If this paper passes the review process with success, then both the companion pa
 These two badged papers appear in the ACM Digital Library, and the companion paper is linked to the original paper.
 The authors of an accepted reproducibility paper present their work as part of a specific reproducibility poster session at ACM ICMR.
 
-Please visit the page for information about the [ACM ICMR 2024](./cfp2024/) call for reproducibility papers. You will find there the submission guidelines this year, the timeline, the paper badge, the description of the companion paper, and the artifacts associated with this companion paper.
+Please visit the page for information about the [ACM ICMR 2025](./cfp2025/) call for reproducibility papers. You will find there the submission guidelines this year, the timeline, the paper badge, the description of the companion paper, and the artifacts associated with this companion paper.
 
 ---
 
@@ -52,7 +52,7 @@ Quoting ACM:
 
 ## Reproducibility Review Process
 Submitted reproducibility companion papers are reviewed by a collaborative reproducibility review process, which is distinct from the main conference paper reviewing process. Please visit the page for detailed information about the [Review Guidelines](./guidelines/).
-It is the [ICMR Reproducibility Committee](./cfp2024/#2024-reproducibility-committee) that is carrying out the review process, determining whether or not a paper will receive a badge. 
+It is the [ICMR Reproducibility Committee](./cfp2025/#2025-reproducibility-committee) that is carrying out the review process, determining whether or not a paper will receive a badge. 
 The committee assigns reviewers to each reproducibility companion paper submission.
 
 
@@ -74,7 +74,7 @@ The committee is chaired by two chairpersons who each serve for two years. At th
 
 The two chairpersons nominate the members of the committee who are enrolled for at least one year. Chairs can also take part in the evaluation. There is a strict conflict of interest policy: the chairs cannot submit a reproducibility paper while they hold their positions.
 
-The committee in charge of reproducibility at the 2024 edition of ACM ICMR is provided in the page of [ACM ICMR 2024 — Call for Reproducibility papers]({{site.baseurl}}/cfp2024).
+The committee in charge of reproducibility at the 2025 edition of ACM ICMR is provided in the page of [ACM ICMR 2025 — Call for Reproducibility papers]({{site.baseurl}}/cfp2025).
 
 ---
 
