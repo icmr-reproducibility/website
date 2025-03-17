@@ -26,7 +26,9 @@ Overall, our objectives are to:
 * Support easier dissemination of code, data sets, experimental frameworks and other products of multimedia research.
 
 ## ACM ICMR: Call for Reproducibility Papers
-The authors who already have a paper accepted at ACM ICMR (as a regular long/short paper or a special session paper) can participate in the reproducibility review process.
+
+[//]: # (The authors who already have a paper accepted at ACM ICMR &#40;as a regular long/short paper or a special session paper&#41; can participate in the reproducibility review process.)
+The authors who already have a paper accepted at previous academic conferences (as a regular long/short paper or a special session paper in ICLR/NIPS/ACL/EMNLP/CVPR, etc.) can participate in the reproducibility review process.
 The authors are invited to prepare and submit a _reproducibility paper_. The reproducibility paper is a _companion paper_ that is distinct from the main paper. 
 The companion paper will be formally reviewed by the [ICMR Reproducibility Committee]() or reviewers. 
 If this paper passes the review process with success, then both the companion paper and the corresponding main paper are awarded reproducibility badges that are embedded in their .pdf. 
